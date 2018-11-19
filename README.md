@@ -1,5 +1,5 @@
 # Regressor
-Comparision skilearn's logistic regressor to own
+Comparision sklearn's logistic regressor to own
 
 Logistic regressor to classify amazone reviews (positive/negative)
 It's applience shown in homework.ipynb

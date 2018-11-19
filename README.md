@@ -1,5 +1,5 @@
 # Regressor
-Comparision of sklearn's logistic regressor to custom
+Comparison of sklearn's logistic regressor to custom
 
 Logistic regressor to classify amazone reviews (positive/negative)
 It's applience shown in homework.ipynb
